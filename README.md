@@ -2,6 +2,8 @@
 
 Functions for putting FrontEnd and Mediation servers in and out of Maintenance mode
 
+### **Requires Skype for Business 2015 module to be installed!**
+
 # Installation
 ```
 Install-Module -Name vtfk.SkypeMaintenanceMode
